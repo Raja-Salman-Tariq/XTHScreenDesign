@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">XTHScreenDesign</string>
+    <string name="john_doe">John Doe</string>
+    <string name="email">john.doe@example.com</string>
+    <string name="upgrade">Upgrade to PRO</string>
+    <string name="privacy">Privacy</string>
+    <string name="purchase_history">Purchase History</string>
+    <string name="help"><![CDATA[Help & Support]]></string>
+    <string name="settings">Settings</string>
+    <string name="invite">Invite A Friend</string>
+    <string name="logout">Logout</string>
 </resources>
